@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.example.hellomap&apos; to &apos;dev.supravas_beta&apos;&#x0A;- Original project: &apos;Supravas_Beta_withMap&apos;&#x0A;- Original element: &apos;Supravas_Beta_withMap/src/com.example.hellomap&apos;&#x0A;- Renamed element: &apos;Supravas_Beta_withMap/src/dev.supravas_beta&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.example.hellomap&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.example.hellomap" name="dev.supravas_beta" qualified="false" references="true" stamp="1396080864796" textual="false" version="1.0"/>
+</session>
